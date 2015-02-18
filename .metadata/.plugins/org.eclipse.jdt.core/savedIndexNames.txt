@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+/home/ergo/SwordGameSE/.metadata/.plugins/org.eclipse.jdt.core
+1164826100.index
